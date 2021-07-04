@@ -1,0 +1,1 @@
+<?php/*Template Name: Rich Page*/?><?php get_header(); ?>  <?php get_template_part( 'rich', get_post_format() ); ?><?php get_footer(); ?>

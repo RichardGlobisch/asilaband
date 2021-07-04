@@ -1,0 +1,1 @@
+<?php/*Template Name: Band Page*/?><?php get_header(); ?>  <?php get_template_part( 'bio', get_post_format() ); ?><?php get_footer(); ?>

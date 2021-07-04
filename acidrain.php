@@ -1,0 +1,1 @@
+<div>	<img src="<?php bloginfo('template_directory'); ?>/images/Asila - Acid Rain.png" alt="asila Band acid rain Image"> </div>

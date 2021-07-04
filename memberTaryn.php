@@ -1,0 +1,1 @@
+<?php/*Template Name: Taryn Page*/?><?php get_header(); ?>  <?php get_template_part( 'taryn', get_post_format() ); ?><?php get_footer(); ?>

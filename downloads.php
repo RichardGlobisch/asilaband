@@ -1,0 +1,1 @@
+<?php/*Template Name: Downloads*/?><?php get_header(); ?>  <?php get_template_part( 'epk', get_post_format() ); ?><?php get_footer(); ?>
